@@ -1,0 +1,13 @@
+{
+  "name": "blade-server",
+  "version": "1.0.0",
+  "description": "BLADE PeerJS Signaling Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^0.6.1",
+    "express": "^4.18.2"
+  }
+}
